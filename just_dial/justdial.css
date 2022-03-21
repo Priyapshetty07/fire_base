@@ -1,0 +1,253 @@
+body{
+    margin: auto;
+    padding: 0;
+    background: rgb(122, 120, 120);
+    height: 100%;
+    letter-spacing: 0.03em;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.holder{
+    background-color: #ccc;
+    margin: auto;
+    width: 1024px;
+    position: relative;
+
+}
+
+/* .header{
+    z-index: 9;
+    float: left;
+    width: 100%;
+}
+.navigation{
+    float: left;
+    width: 100%;
+    background: #f0f0f0;
+    
+
+} */
+
+.text-center {
+    text-align: center;
+    
+    left: 45% ;
+    position: absolute;
+      top: 5%;
+      float: left;
+    
+  }
+  .jd{
+      float: right;
+      margin-left: 100px;
+       position: absolute;
+      top: 5%;
+      left: 50%;
+  }
+  .f{
+      background-color: #fe610c;
+      border-radius: 40px;
+  }
+  .a{
+      float: right;
+      margin-left: 100px;
+      position: absolute;
+      top: 5%;
+      left: 60%;
+  }
+  .b{
+      float: right;
+      margin-left: 100px;
+      position: absolute;
+      top: 5%;
+      left: 69%;
+  }
+  .c{
+      float: right;
+      margin-left: 150px;
+      position: absolute;
+      top: 5%;
+      left: 75%;
+      border-radius: 40px;
+  }
+  .pic{
+      position: absolute;
+      top: 5%;
+  }
+                        /* footer */
+.footer-desc{
+border-top: 1px solid #ccc;
+border-bottom: 1px solid #ccc;
+background: #dedede;
+letter-spacing: 0;
+}
+                       /* right side menu */
+.rightfixed {
+    position: fixed;
+    top: 28%;
+    right: 0;
+    height: 335px;
+    z-index: 9999;
+    width: 39px;
+    }
+
+.rightfixed .frilst {
+        width: 38px;
+        height: 125px;
+        background: url(//akam.cdn.jdmagicbox.com/images/icontent/jdrwd/bt_freelisting.png) no-repeat 0 0;
+        display: inline-block;
+        cursor: pointer;
+        }
+
+.rightfixed .cscare {
+            width: 38px;
+            height: 153px;
+            background: url(//akam.cdn.jdmagicbox.com/images/icontent/jdrwd/bt_customercare.png) no-repeat 0 0;
+            display: inline-block;
+            cursor: pointer;
+            }
+
+            /* ---------------------------- */
+
+.service-icons {
+     background: url(//akam.cdn.jdmagicbox.com/images/icontent/jdrwd_new/footerseo1x.png) no-repeat;
+    float: left;
+}
+            
+.shop-icon10 {
+    background-position: -9px -199px;
+    width: 51px;
+    height: 42px;
+    bottom:-298% ;
+    left: 5%;
+                }
+                .mt-15{
+                    position: absolute;
+                }
+                .shop1 {
+                   font-size: small;
+                    position: absolute;
+                    height: 42px;
+                    bottom:-298% ;
+                    left: 14%;
+                    }
+                .shop2 {
+                        font-size: small;
+                         position: absolute;
+                         height: 42px;
+                         bottom:-303% ;
+                         left: 14%;
+                         width: 180px ;
+                         }
+            .book-icon {
+                            background-position: -69px -252px;
+                            width: 68px;
+                            height: 49px;
+                            left: 37%;
+                            bottom: -299%;
+                        }
+                   .shop11 {
+                            font-size: small;
+                             position: absolute;
+                             height: 42px;
+                             bottom:-298% ;
+                             left: 46%;
+                             }
+                      .shop21 {
+                                font-size: small;
+                                 position: absolute;
+                                 height: 42px;
+                                 bottom:-303% ;
+                                 left: 46%;
+                                 width: 180px ;
+                                 }
+                    .ordf-icon {
+                    background-position: -10px -9px;
+                     width: 50px;
+                    height: 51px;
+                    left: 68%;
+                   bottom: -299%;
+                    }
+                    .shop12{
+                        font-size: small;
+                         position: absolute;
+                         height: 42px;
+                         bottom:-298% ;
+                         left: 75%;
+                         }
+                  .shop22{
+                            font-size: small;
+                             position: absolute;
+                             height: 42px;
+                             bottom:-303% ;
+                             left: 75%;
+                             width: 180px ;
+                             }
+                   .hote-icon {
+                                background-position: -10px -74px;
+                                width: 52px;
+                                height: 54px;
+                                left: 5.5%;
+                             bottom: -330%;
+                            }
+                      .shop13{
+                                font-size: small;
+                                 position: absolute;
+                                 height: 42px;
+                                 bottom:-328% ;
+                                 left: 13.5%;
+                                 }
+                          .shop23{
+                                    font-size: small;
+                                     position: absolute;
+                                     height: 42px;
+                                     bottom:-332% ;
+                                     left: 13.5%;
+                                     width: 180px ;
+                                     }
+                                 .movi-icon {
+                                        background-position: -142px -201px;
+                                        width: 63px;
+                                        height: 44px;
+                                        left: 37%;
+                                        bottom: -330%;
+                                    }
+                                    .shop14{
+                                        font-size: small;
+                                         position: absolute;
+                                         height: 42px;
+                                         bottom:-328% ;
+                                         left: 46%;
+                                         }
+                                  .shop24{
+                                            font-size: small;
+                                             position: absolute;
+                                             height: 42px;
+                                             bottom:-332% ;
+                                             left: 46%;
+                                             width: 180px ;
+                                             }
+                                        .entr-icon {
+                                                background-position: -72px -13px;
+                                                width: 66px;
+                                                height: 47px;
+                                                left: 68%;
+                                                bottom: -330%;
+                                        }
+                                                .shop15{
+                                                    font-size: small;
+                                                     position: absolute;
+                                                     height: 42px;
+                                                     bottom:-328% ;
+                                                     left: 75%;
+                                                     }
+         .shop25{
+                                                        font-size: small;
+                                                         position: absolute;
+                                                         height: 42px;
+                                                         bottom: -332% ;
+                                                         left: 75%;
+                                                         width: 180px ;
+                                                         }        
+           
