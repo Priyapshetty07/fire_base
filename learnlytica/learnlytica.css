@@ -1,0 +1,49 @@
+/* header */
+.head-container{
+    padding: 10px;
+    background-color: #fff;
+ }
+ .options{
+     text-decoration: none;
+     padding: 10px;
+     display: inline;
+     padding-right: 10px;
+     word-spacing: 125px;
+     float:right ;
+     
+ }
+ .main-container{
+     background-image: url("https://primary.spayee.com/s/pages/assets/images/eBfdmbacnkgrnd3.jpg");
+     height: 1000px;
+     
+ }
+
+/* footer 2 */
+
+.footers .container_footer {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    width: 100%;
+    max-width: 1250px;
+}
+
+.footers .p-2 {
+    padding: 0.4rem;
+}
+
+.footers .footer_link {
+    cursor: pointer;
+    display: inline-block;
+    font-size: .8rem;
+    height: 1.8rem;
+    line-height: 1rem;
+    padding: 0.35rem 0.4rem;
+    text-align: center;
+    text-decoration: none;
+}
+
+footer a {
+    color: #ffffff !important;
+}
